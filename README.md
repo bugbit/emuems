@@ -1,7 +1,7 @@
 # emuems
 <br>
 <p>Emulador de memoria expandida EMS para 8086/8088 mediante el disco duro.</p>
-<p>Lo desarrolle en el año 1994 con el turbo assembler de Borland en un PC 8088. Lo probe en diferentes programas como: Turbo Debug, Autocad; funcionado correctamente solo con la única excepción del letargo del disco duro</p>
+<p>Lo desarrolle en el año 1994 con el turbo assembler de Borland en un PC 8088. Lo probe en diferentes programas como: Turbo Debug, Autocad; funcionado correctamente solo con la única excepción del retargo del disco duro</p>
 <br>
 <p>Para iniciarlo debéis indicar por parámetros la ruta donde se guardan los archivos de disco y el número de MB de memoria a emular, por ejemplo:</p>
 <br>
